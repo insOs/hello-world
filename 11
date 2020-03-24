@@ -1,0 +1,33 @@
+# 1.html是什么
+`HTML（Hyper-Text Markup Language ）超文本标记语言，HTML5是其最新的标准，XHTML是HTML的严格版`
+
+
+# 2.html的基础知识
+基本结构：
+```
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>标题e</title>
+    </head>
+    <body>
+        <p>正文</p>
+    </body>
+</html>
+```
+
+基本标签：
+
+
+| 标签 | 描述 | 
+| -------- | -------- | 
+| <html>  | 根标签     | 
+| <head>| 标签头部/引用样式 | 
+| <title> |标题 | 
+|< meta>| 字符集编码设置 | 
+| <body> |网站可展示内容 |
+|<p> |段落元素|
+| <h1-h6>  | 1-6级标题
+
+敲代码的道路孤独又有趣，愿每一个人都会越来越好。
